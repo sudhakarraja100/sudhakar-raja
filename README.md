@@ -57,9 +57,9 @@ A static website designed to improve customer engagement and showcase menu & pri
 
 ## 📊 GitHub Stats
 
-![Sudhakar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhakar-raja&show_icons=true&theme=radical)
+![Sudhakar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhakarraja100&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakar-raja&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakarraja100&layout=compact&theme=radical)
 
 ---
 
@@ -68,5 +68,5 @@ A static website designed to improve customer engagement and showcase menu & pri
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sudhakar-raja-n-p-/)  
 - 🌐 Portfolio: [Your Website](#)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sudhakar-raja&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=sudhakarraja100&color=blue)
 
